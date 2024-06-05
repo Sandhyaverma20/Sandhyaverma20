@@ -2,8 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Sandhya</h1>
 <h3 align="center">A learner from India</h3>
-<img align="right" alt="coding" width="400" src="![image](https://user-images.githubusercontent.com/72126333/234205402-6a22538e-498d-4836-bd4f-a12b6449f9a5.png)
-">
+<img align="right" alt="coding" width="400" src="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sandhyaverma20&label=Profile%20views&color=0e75b6&style=flat" alt="sandhyaverma20" /> </p>
 
