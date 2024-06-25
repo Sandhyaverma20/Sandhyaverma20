@@ -2,7 +2,12 @@
 
 <h1 align="center">Hi 👋, I'm Sandhya</h1>
 <h3 align="center">A learner from India</h3>
-<center><img src="https://github.com/Sandhyaverma20/Sandhyaverma20/blob/main/pexels-divinetechygirl-1181272.jpg" width=100% height=350></center>
+<video width="320" height="240" controls>
+  <source src="" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+<center><img src="" width=100% height=350></center>
 
 - 📫 How to reach me **sandhyanaincy123@gmail.com**
 
