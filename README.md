@@ -4,8 +4,6 @@
 <h3 align="center">A learner from India</h3>
 <center><img src="https://raw.githubusercontent.com/Banner.png" width=100% height=auto></center>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sandhyaverma20&label=Profile%20views&color=0e75b6&style=flat" alt="sandhyaverma20" /> </p>
-
 - 📫 How to reach me **sandhyanaincy123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
